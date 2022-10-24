@@ -17,7 +17,7 @@ Seu foco é principalmente a criação de componentes utilizando HTML, CSS e Jav
 Vamos utilizar o Vue para criar um componente de card que exibe as informações de um usuário do GitHub.
 
 <div style="text-align:center">
-    <img src="./docs/github-card.png" width="250" />
+    <img src="./docs/github-card.png" width="350" />
 </div>
 
 ## Preparação
