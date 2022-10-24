@@ -10,8 +10,14 @@
       <span class="text-muted">{{ user.name }}</span>
     </h2>
     <p>{{ user.bio }}</p>
-    <p class="text-muted">{{ user.location }}</p>
-    <p class="text-muted">{{ user.company }}</p>
+    <p class="text-muted">
+      <span class="fas fa-location-dot"></span>
+      {{ user.location }}
+    </p>
+    <p class="text-muted">
+      <span class="fas fa-building"></span>
+      {{ user.company }}
+    </p>
   </div>
 </template>
 
