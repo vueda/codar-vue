@@ -74,17 +74,3 @@ https://prettier.io/docs/en/index.html
 Ferramenta para build e servidor de desenvolvimento.
 
 https://vitejs.dev/
-
-## Info
-
-background-color: #161b22
-
-color: #8b949e
-
-npm install --save @fortawesome/fontawesome-free
-
-import '@fortawesome/fontawesome-free/css/all.css'
-
-<span class="fas fa-location-dot"></span>
-
-<span class="fas fa-building"></span>
